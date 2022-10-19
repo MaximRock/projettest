@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git@github_tp_w:MaximRock/projettest.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[alias]
+	history = log
+[user]
+	name = MaximKotov
+	email = maxrockvardill@gmail.com
